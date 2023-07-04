@@ -1,2 +1,6 @@
-# csc-spring-2019-tetris-group
-Group making tetris
+# Tetris game
+## Flowchar
+![alt text](/Flowchart.png)
+
+## UML
+![alt text](/UML.png)
